@@ -5,10 +5,13 @@ I love nocode development.
 
 Mechanical Eng. by profession , Programmer by passion
 
-🆕 Currently working on 
+👉🏽 Currently working on and learning
   • [Casagbic](https://casagbic.com) - A No-code Android app builder<br>
+    <br/>
     - Gwt, Java, Javascript, CSS, HTML
-  • [Getaix](https://getaix.com) - Largest extension marketplace for publishing and exploring extensions for AppInventor and it's clones.
+    <br/>
+  • 🤪 [Getaix](https://getaix.com) - Largest extension marketplace for publishing and exploring extensions for AppInventor and it's clones.
+    <br/>
     - ReactJs, NodeJs
 
 
